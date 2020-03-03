@@ -21,7 +21,7 @@ A customisable React Native video player for Android and IOS, having updated lib
 ## Install
 
 ```shell
-npm i -S react-native-af-video-player
+npm i -S react-native-af-video-player-updated
 ```
 
 Then link

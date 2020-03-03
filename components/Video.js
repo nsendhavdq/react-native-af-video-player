@@ -101,6 +101,7 @@ class Video extends Component {
       inlineHeight,
       duration: data.duration
     }, () => {
+      this.onSeekRelease(data.currentTime);
       Animated.timing(this.animInline, { toValue: inlineHeight, duration: 200 }).start()
       this.props.onPlay(!this.state.paused)
       if (!this.state.paused) {

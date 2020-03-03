@@ -1,12 +1,12 @@
-# react-native-af-video-player
+# react-native-af-video-player-updated
 
-[![npm version](http://img.shields.io/npm/v/react-native-af-video-player.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player "View this project on npm")
-[![npm downloads](http://img.shields.io/npm/dm/react-native-af-video-player.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player "View this project on npm")
-[![npm licence](http://img.shields.io/npm/l/react-native-af-video-player.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player "View this project on npm")
-[![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android-989898.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player "View this project on npm")
-[![npm](https://img.shields.io/npm/dt/react-native-af-video-player.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player "View this project on npm")
+[![npm version](http://img.shields.io/npm/v/react-native-af-video-player.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player-updated "View this project on npm")
+[![npm downloads](http://img.shields.io/npm/dm/react-native-af-video-player.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player-updated "View this project on npm")
+[![npm licence](http://img.shields.io/npm/l/react-native-af-video-player.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player-updated "View this project on npm")
+[![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android-989898.svg?style=flat-square)](https://www.npmjs.com/package/react-native-af-video-player-updated "View this project on npm")
+[![npm](https://img.shields.io/npm/dt/react-native-af-video-player.svg?style=flat-square)](https://www.npmjs.com/package/react-native-af-video-player-updated"View this project on npm")
 
-A customisable React Native video player for Android and IOS
+A customisable React Native video player for Android and IOS, having updated library versions with reference from af-video-player. 
 
 ![Demo](https://github.com/abbasfreestyle/react-native-af-video-player/blob/master/demo.gif)
 
